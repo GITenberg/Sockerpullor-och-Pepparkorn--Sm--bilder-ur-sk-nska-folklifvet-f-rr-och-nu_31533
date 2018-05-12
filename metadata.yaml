@@ -1,0 +1,34 @@
+_repo: Sockerpullor-och-Pepparkorn--Sm--bilder-ur-sk-nska-folklifvet-f-rr-och-nu_31533
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wranér, Henrik
+    alias: Wraner, Henrik
+    birthdate: 1853
+    deathdate: 1908
+    gutenberg_agent_id: '35303'
+    url: http://www.gutenberg.org/2009/agents/35303
+    wikipedia: http://sv.wikipedia.org/wiki/Henrik_Wran%C3%A9r
+description: ''
+gutenberg_issued: '2010-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31533'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Skåne (Sweden) -- Fiction'
+- !lcsh 'Short stories, Swedish'
+- !lcsh 'Sweden -- Fiction'
+- !lcsh 'Humorous stories'
+tableOfContents: De kostliga fruntimmerna! -- Hur "Fiffens" tös fick fästman -- "Kluddarens"
+  midsommarsgille -- Därför var hon blek -- En pojke för sig -- Mörksens gärningar
+  -- När man ska ritas af.
+title: 'Sockerpullor och Pepparkorn: Små bilder ur skånska folklifvet förr och nu'
+url: http://www.gutenberg.org/ebooks/31533
